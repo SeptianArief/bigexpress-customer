@@ -1,0 +1,45 @@
+[
+    "",
+    {
+        "id": 0,
+        "title": "Judul yang ke 0",
+        "iamge_path": "https://api.bigexpress.co.id/public/image/Rewards01.png",
+        "next_action": {
+            "type": "open_browser",
+            "url": "https://"
+        }
+    },
+    {
+        "id": 1,
+        "title": "Judul yang ke 1",
+        "iamge_path": "https://api.bigexpress.co.id/public/image/Rewards01.png",
+        "next_action": {
+            "type": "open_image",
+            "url": "https://"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Judul yang ke 2",
+        "iamge_path": "https://api.bigexpress.co.id/public/image/Rewards01.png",
+        "next_action": {
+            "type": "none"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Judul yang ke 3",
+        "iamge_path": "https://api.bigexpress.co.id/public/image/Rewards01.png",
+        "next_action": {
+            "type": "none"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Judul yang ke 4",
+        "iamge_path": "https://api.bigexpress.co.id/public/image/Rewards01.png",
+        "next_action": {
+            "type": "none"
+        }
+    }
+]
